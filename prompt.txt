@@ -1,0 +1,10 @@
+Kerjakan bounty news-image-20261119 ("Sum up 19 November's world news in one image", https://make.fun/bounty/news-image-20261119) sepenuhnya di sesi baru yang bersih ini, dari riset hingga siap finalisasi repo.
+
+Aturan wajib:
+1. Cek Status Kompetisi Dulu
+2. Baca Panduan & Aturan Kit
+3. Jaga Keutuhan Transkrip
+4. Analisis Leaderboard Rank 1–10 & Evaluasi panduan-make-fun
+5. Spesifikasi Visual Berita 19 November 2026
+6. Inspeksi Mandiri PNG & Uji Lokal
+7. Berhenti & Lapor
