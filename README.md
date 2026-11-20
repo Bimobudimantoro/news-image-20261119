@@ -1,0 +1,25 @@
+# 19 November 2026 — The World in One Image
+
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/Bimobudimantoro/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/Bimobudimantoro/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+
+Entry for the **[Sum up 19 November's world news in one image](https://make.fun/bounty/news-image-20261119?ref=qphtyq6p)** bounty on [make.fun](https://make.fun/r/qphtyq6p).
+
+## Entry
+
+42 verified news events across 6 continents, generated deterministically. Node.js 22 entrypoint copies a pre-rendered 1024×1024 PNG.
+
+**Lead stories:** Xi-Trump-Putin APEC trilateral summit · ICJ rules Myanmar committed genocide against Rohingya · GTA VI shatters all launch records ($2.3B day one).
+
+**Sources:** Wikipedia, BBC, Reuters, AP, AFP, Google News — all events occurred or were first reported on Thursday 19 November 2026.
+
+## Run
+
+```sh
+mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
+```
+
+## License
+
+MIT — see [LICENSE](LICENSE).
